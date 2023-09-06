@@ -1,0 +1,19 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-style: oblique;
+    font-weight: 90;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.box1 {
+    width: 300%;
+    margin: 0 auto;
+}
+
+.img-center {
+    width: 100%;
+   
+}

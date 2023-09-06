@@ -1,0 +1,51 @@
+
+
+.container {
+    margin: 0 20px;
+
+}
+
+
+.box {
+    width: 100%;
+}
+
+.box .card{
+    width: 33%;
+    transition: 0.5s;
+    display: inline-block;
+    border-radius: 30px;
+}
+
+.box .card .img{
+    width: 100%;
+    display: block;
+    height: 250px;
+}
+
+.box .card:hover{
+    width: 32%;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.box .card .card-footer{
+    background-color: #D9C7BD;
+    color: white;
+    padding: 5px;
+    margin: 0;
+    height: 150px;
+    overflow: hidden;
+}
+
+.box .card .card-footer .texto-img{
+    text-align: center;
+    display: block;
+}
+
+.box .card .card-footer .link{
+    text-align: center;
+    display: block;
+}
+
+
